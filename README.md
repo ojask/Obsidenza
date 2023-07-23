@@ -1,6 +1,7 @@
-# iconpack-obsidian
-Gnome Icon Pack based upon Faenza
+# Obsidenza icon pack for linux
+Fork of Obsidian icon pack, based upon the original Faenza icon theme
 
+(placeholder image)
 ![alt tag](https://github.com/madmaxms/iconpack-obsidian/blob/master/logo.jpg)
 
 ## Installation
